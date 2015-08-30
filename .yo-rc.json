@@ -1,0 +1,16 @@
+{
+  "generator-drupal-theme": {
+    "projectName": "claremore",
+    "projectSlug": "claremore",
+    "baseTheme": "aurora",
+    "baseThemeSettings": {
+      "auroraType": "polaris"
+    },
+    "sassDir": "sass",
+    "cssDir": "css",
+    "jsDir": "js",
+    "imgDir": "img",
+    "fontsDir": "fonts",
+    "templateDir": "tpl"
+  }
+}
